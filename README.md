@@ -65,4 +65,4 @@ The objective was to build an **interactive Educational Performance & Resource A
 ## 🚀 Demo & Portfolio  
 
 🔗 Portfolio: [samim984.github.io](https://samim984.github.io)  
-🔗 LinkedIn: [Samim Imtiaz](https://www.linkedin.com/in/samim-imtiaz)  
+🔗 LinkedIn: [Samim Imtiaz](linkedin.com/in/samim-imtiaz-611a35273)  
