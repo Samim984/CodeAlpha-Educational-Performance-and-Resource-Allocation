@@ -17,22 +17,21 @@ The objective was to build an **interactive Educational Performance & Resource A
 - **Executive Overview** → High-level view of Student Strength, Teacher Stats, Pass %, Fees, and Geography  
 
 - <img width="915" height="471" alt="Overview" src="https://github.com/user-attachments/assets/be049b03-3eb1-4785-922e-4045767f82b6" />
-" 
 
 - **Student Performance** → Pass/Fail Analysis, Avg Marks, Subject & Class Heatmaps, District Insights  
 
 - <img width="913" height="470" alt="Student" src="https://github.com/user-attachments/assets/3f819163-8f1d-449b-8ab1-1f678fc09a38" />
-" 
+  
 
 - **Teacher Allocation & Quality** → Teacher Ratio, Salary vs Allocation, Pass % vs Avg Marks, Resource Gap Analysis  
 
 - <img width="912" height="464" alt="Teacher" src="https://github.com/user-attachments/assets/b02cfd18-6844-40c8-86fb-ec1944e2b7ea" />
-"  
+  
 
 - **Finance & Growth Planning** → Fees vs Scholarships, Net Revenue, Budget vs Actual, Forecasting  
 
 - <img width="907" height="465" alt="Forecast" src="https://github.com/user-attachments/assets/d88b7851-e60b-4cc0-9b2b-23dee760d1c9" />
-" 
+  
 
 ---
 
